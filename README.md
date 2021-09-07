@@ -1,4 +1,4 @@
-Welcome to the Interactive Visualisation workshop presented at the RSS Internations Conference 2021. If you would like to follow along with the workshop or explore the examples afterwards, you will require some installations.
+Welcome to the Interactive Visualisation workshop presented at the RSS International Conference 2021. If you would like to follow along with the workshop or explore the examples afterwards, you will require some installations.
 
 ## Requirements
 
